@@ -37,6 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   themeColor = "#494f5c"
 
   homeSubtitle = "Software engineer and a lifelong learner"
+  description = "Hi! I'm Valerian Clerc, a software engineer and lifelong learner. I love building things and challenging myself. Visit my website to learn more about me."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 

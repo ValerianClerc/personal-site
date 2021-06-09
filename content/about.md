@@ -2,6 +2,7 @@
 title: "About"
 date: 2021-06-08T18:42:05-04:00
 draft: false
+description: "About Me: This page contains a brief summary of my experiences and interests, and what I'm currently up to."
 ---
 
 Hi! I'm a software developer based in Montreal, and I love building cool things and challenging myself by learning new technologies.
